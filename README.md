@@ -4,18 +4,18 @@
     <a href="https://www.espm.br/cursos-de-graduacao/sistemas-de-informacao/"><img src="https://avatars.githubusercontent.com/u/49880458?s=200&v=4" alt="Sistemas de Informação ESPM" style="height: 200px; width: 200px;"/></a>
 </p>
 
-# Nome do Projeto
+# IceBreak
 
 ### 2023-02
 
 ## Integrantes
-- [Nome do integrante 1 e link do portifólio](https://github.com/carlosrafaelgn/)
+- Vinícius Eduardo Tinoco da Silva (https://github.com/Vinicius-eng20/projeto2)
 - [Nome do integrante 2 e link do portifólio](https://github.com/carlosrafaelgn/)
 - [Nome do integrante 3 e link do portifólio](https://github.com/carlosrafaelgn/)
 
 ## Descrição do Projeto
 
-Descrição do projeto, incluindo o problema original, e o objetivo final. Pode ser em mais de um parágrafo.
+Site de busca de eventos, tais como festas e shows.
 
 # Detalhes de Configuração
 
