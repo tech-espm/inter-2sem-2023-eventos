@@ -10,7 +10,7 @@
 
 ## Integrantes
 - Vinícius Eduardo Tinoco da Silva (https://github.com/tech-espm/inter-2sem-2023-eventos)
-- Antonio cesar pereira melo (https://github.com/carlosrafaelgn/)
+- Antonio cesar pereira melo (https://github.com/tonhao29)
 - [Nome do integrante 3 e link do portifólio](https://github.com/carlosrafaelgn/)
 
 ## Descrição do Projeto
