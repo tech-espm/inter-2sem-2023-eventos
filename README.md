@@ -11,7 +11,6 @@
 ## Integrantes
 - [Antonio Cesar Pereira Melo](https://github.com/tonhao29)
 - [Bruno de Assis Pereira](https://github.com/Assyss)
-- [João Muniz Caetano](https://github.com/MercyBcp)
 - [Pietro Garbin Navarro de Andrade](https://github.com/Pepegna)
 - [Vinícius Eduardo Tinoco da Silva](https://github.com/tech-espm/inter-2sem-2023-eventos)
 
