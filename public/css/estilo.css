@@ -8,6 +8,10 @@ html, body {
 	min-height: 100vh;
 }
 
+body {
+	background-color: #23466c;
+}
+
 .limitador {
 	max-width: 1200px;
 	margin: 0px auto;
@@ -17,11 +21,13 @@ html, body {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: nowrap;
+	box-shadow: 0 0 1rem #94dcea;
 }
 
 .conteudo {
 	/* Para fazer o rodapé ficar sempre na parte inferior da página ;) */
 	flex: 1 1 auto;
+	background-color: black;
 }
 
 .rodape {
@@ -36,10 +42,11 @@ html, body {
 }
 .logo{
 	color:#69d1eb;
+	text-shadow: 0 0 1rem #69d1eb;
 }
 .button-1{
 	background-color: #69d1eb;
-    color: #FFF;
+    color: #174f5d;
     border-radius: 10px;
     width: 120px;
     padding: 10px;
@@ -77,23 +84,30 @@ html, body {
 .titulo-1{
 	padding-top: 50px;
     font-size: 50px;
-	text-align: center
+	text-align: center;
+	color: #ff9900;
 }
 
 .container-1{
 	background-image: url(../img/gelinho.jpeg);
 	text-align: center;
 	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center top;
 }
 
 .desc-1{
 	color: #FFF;
-	padding-top: 500px;
+	margin: 500px auto 0px;
+	max-width: 400px;
+	padding: 1rem;
+	background-color: rgba(36, 104, 149, 0.75);
 	text-align: center;
+	text-shadow: 0 0 0.5rem black;
 }
 
 
-.container-fluid{
+.fundo-colunas-inicial{
 	color: #69d1eb;
 	text-align: center;
 	background-color: black;
