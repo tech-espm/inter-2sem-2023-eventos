@@ -5,6 +5,14 @@ class IndexRoute {
 		res.render("index/index");
 	}
 
+	public async perfil(req: app.Request, res: app.Response) {
+		let opcoes = {
+			titulo: "Perfil"
+		};
+
+		res.render("index/perfil", opcoes);
+	}
+
 	public async sobre(req: app.Request, res: app.Response) {
 		let opcoes = {
 			titulo: "Sobre"
