@@ -169,8 +169,14 @@ body {
 	font-size: 15px;
 }
 
-.carouselSertanejo {
-	width: 300px;
+.center {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
+
+.carousel {
+	width: 60%;
 }
 
 
