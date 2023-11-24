@@ -5,14 +5,6 @@ class IndexRoute {
 		res.render("index/index");
 	}
 
-	public async perfil(req: app.Request, res: app.Response) {
-		let opcoes = {
-			titulo: "Perfil"
-		};
-
-		res.render("index/perfil", opcoes);
-	}
-
 	public async sobre(req: app.Request, res: app.Response) {
 		let opcoes = {
 			titulo: "Sobre"
@@ -21,7 +13,15 @@ class IndexRoute {
 		res.render("index/sobre", opcoes);
 	}
 
-	public async produtos(req: app.Request, res: app.Response) {
+	public async cadastro(req: app.Request, res: app.Response) {
+		let opcoes = {
+			titulo: "Cadastro"
+		};
+
+		res.render("index/cadastro", opcoes);
+	}
+
+	public async eventos(req: app.Request, res: app.Response) {
 		let produtoA = {
 			id: 1,
 			nome: "Produto A",
@@ -43,11 +43,11 @@ class IndexRoute {
 		let produtosVindosDoBanco = [ produtoA, produtoB, produtoC ];
 
 		let opcoes = {
-			titulo: "Listagem de Produtos",
+			titulo: "Eventos",
 			produtos: produtosVindosDoBanco
 		};
 
-		res.render("index/produtos", opcoes);
+		res.render("index/eventos", opcoes);
 	}
 }
 
